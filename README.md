@@ -2,6 +2,8 @@
 
 Have a backup of GitHub projects in your channel with this robot! 
 
+The robot is upgradable! 
+
 `If you live in Iran and run on your system, use a valid VPN!`
 
 
