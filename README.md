@@ -43,3 +43,12 @@ cd Github-To-Telegram
 [SET FILE Github-To-Telegram.py]
 Running on a server or system: python Github-To-Telegram.py
 ```
+
+# Setting
+
+```
+admin_id = 'Admin numeric ID'
+telegram_bot_token = "Token Bot"
+telegram_channel_id = "ID Channel (ex : @esfelurm)"
+Id_bot = "Username Bot : (ex : @esfelurm_bot)"
+```
