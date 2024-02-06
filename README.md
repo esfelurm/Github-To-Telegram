@@ -17,3 +17,16 @@ The job of the robot is to find the projects related to the specified TOPIC and 
 <img src="https://github.com/esfelurm/Github-To-Telegram/assets/104654028/1720fa9e-515c-4873-9795-368036ed02b7">
 
 
+## Sample 
+
+<img src="https://github.com/esfelurm/Github-To-Telegram/assets/104654028/4b44ed4b-0324-4c51-83e9-fdb89c567871">
+
+
+# How To work
+
+How to work: 
+In order to publish projects related to a topic in your channel, you must use the following command :
+/change [name topic] [number] [OK/NO] [OK/NO] 
+The first parameter is the TOPIC name The second parameter is the number of projects you want to send The third parameter is for whether you want the readme.md file of the repositories to be sent or not The last parameter is the same as the third parameter, with the difference that it sends the source code of the project instead of the readme.md file 
+
+Example : ```/change DDOS 10 OK OK```
