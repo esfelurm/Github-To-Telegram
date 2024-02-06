@@ -2,6 +2,9 @@
 
 Have a backup of GitHub projects in your channel with this robot! 
 
+`If you live in Iran and run on your system, use a valid VPN!`
+
+
 The job of the robot is to find the projects related to the specified TOPIC and then send it to the Telegram channel. 
 
 ## Options
