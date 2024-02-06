@@ -10,7 +10,8 @@ The job of the robot is to find the projects related to the specified TOPIC and 
 - Ability to screenshot from the GitHub page (With 2 sites)
 - Download the README.md file of the projects (optional)
 - Get the source code of the project in the form of a zip file (optional)
-- Translation of project descriptions into Persion 
+- Translation of project descriptions into Persion
+- Get complete project information 
 
 
 ## Screen Shot
