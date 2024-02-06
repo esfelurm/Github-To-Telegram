@@ -10,6 +10,7 @@ The job of the robot is to find the projects related to the specified TOPIC and 
 - Ability to screenshot from the GitHub page (With 2 sites)
 - Download the README.md file of the projects (optional)
 - Get the source code of the project in the form of a zip file (optional)
+- Translation of project descriptions into Persion 
 
 
 ## Screen Shot
@@ -30,3 +31,14 @@ In order to publish projects related to a topic in your channel, you must use th
 The first parameter is the TOPIC name The second parameter is the number of projects you want to send The third parameter is for whether you want the readme.md file of the repositories to be sent or not The last parameter is the same as the third parameter, with the difference that it sends the source code of the project instead of the readme.md file 
 
 Example : ```/change DDOS 10 OK OK```
+
+## Install
+
+Tested on Python versions: 3.8.3 , 3.11.6
+
+```
+git clone https://github.com/esfelurm/Github-To-Telegram
+cd Github-To-Telegram
+[SET FILE Github-To-Telegram.py]
+Running on a server or system: python Github-To-Telegram.py
+```
